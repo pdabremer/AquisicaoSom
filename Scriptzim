@@ -1,0 +1,12 @@
+sudo apt-get install libasound2-dev
+
+git clone https://gist.github.com/104902.git /home/<usuário>/Nao/Alsa/
+
+aplay -l		% pegar valores x="placa" e y="dispositivo secundário"
+
+cd /home/<usuário>/Nao/Alsa/
+
+gcc -o alsa-record-example alsa-record-example.c -lasound
+
+./alsa-record-example hw:1,0		% substitui pelos valores hw:x,y
+
