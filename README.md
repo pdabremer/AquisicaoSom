@@ -1,8 +1,9 @@
 # AquisicaoSom
+
 Capturar som do apito
 
 
-[b]Para utilizar o alsa-sound-example[/b]
+# Para utilizar o alsa-sound-example
 
 1. sudo apt-get install libasound2-dev
 
@@ -17,7 +18,7 @@ Capturar som do apito
 6. ./alsa-record-example hw:1,0 % substitui pelos valores hw:x,y
 
 
-[b]Para gravar e reproduzir[/b]
+# Para gravar e reproduzir
 
 1. gcc -o gravacao gravacao.c -lasound
 
