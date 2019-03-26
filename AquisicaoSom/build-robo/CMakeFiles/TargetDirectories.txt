@@ -1,0 +1,7 @@
+/media/pedro/DATA/Faculdade/RINOBOT/Nao/Alsa/AquisicaoSom/build-robo/CMakeFiles/install/strip.dir
+/media/pedro/DATA/Faculdade/RINOBOT/Nao/Alsa/AquisicaoSom/build-robo/CMakeFiles/edit_cache.dir
+/media/pedro/DATA/Faculdade/RINOBOT/Nao/Alsa/AquisicaoSom/build-robo/CMakeFiles/gravacao.dir
+/media/pedro/DATA/Faculdade/RINOBOT/Nao/Alsa/AquisicaoSom/build-robo/CMakeFiles/rebuild_cache.dir
+/media/pedro/DATA/Faculdade/RINOBOT/Nao/Alsa/AquisicaoSom/build-robo/CMakeFiles/list_install_components.dir
+/media/pedro/DATA/Faculdade/RINOBOT/Nao/Alsa/AquisicaoSom/build-robo/CMakeFiles/install/local.dir
+/media/pedro/DATA/Faculdade/RINOBOT/Nao/Alsa/AquisicaoSom/build-robo/CMakeFiles/install.dir
